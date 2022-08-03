@@ -1,0 +1,36 @@
+abcdef....
+
+binarío 01
+
+numérico 0123456789
+
+hexadecimal 0123456789ABCDEF
+
+RGB = Red Green Blue
+
+#_ _ _ _ _ _
+
+0 = ausençia
+
+F = máximo
+
+#000000
+
+#FFFFFF
+
+#FF0000
+
+red
+green
+yellow
+
+RGB 1,2,3,.....255
+
+0 = ansência 
+
+255 = máximo
+
+RGB(255,255,255)
+
+RGB(0,0,255)
+

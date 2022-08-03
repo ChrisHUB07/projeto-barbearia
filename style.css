@@ -1,5 +1,44 @@
-p { text-align: center; }
+p { 
+	text-align: center; 
+}
 
-body { background: #CCCCCC; }
 
-em strong { color: #FF0000; }
+
+#missao { f
+
+	font-size: 20px 
+}
+
+
+
+
+body { 
+	background: #CCCCCC;
+}
+
+
+#banner{ 
+	width: 100%; 
+
+}
+
+
+h1 { 
+	text-align: center 
+}
+
+
+
+
+em strong { 
+	color: #FF0000; 
+}
+
+.intens{
+	font-style: italic;
+}
+
+.Beneficios{
+	backgroud: #FFFFFF;
+}
+
