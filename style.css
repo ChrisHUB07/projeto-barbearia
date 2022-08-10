@@ -13,7 +13,16 @@ p {
 
 
 body { 
-	background: #CCCCCC;
+	
+}
+
+h1 { 
+	text-align: center 
+}
+
+
+em strong { 
+	color: #FF0000;
 }
 
 
@@ -21,24 +30,30 @@ body {
 	width: 100%; 
 
 }
-
-
-h1 { 
-	text-align: center 
-}
-
-
-
-
-em strong { 
-	color: #FF0000; 
+.principal {
+	background: #CCCCCC;
+	padding: 30px;
 }
 
 .intens{
-	font-style: italic;
+	font-style: italic
 }
 
-.Beneficios{
-	backgroud: #FFFFFF;
+.beneficios { 
+	background: #FFFFFF;
+	padding: 20px;
 }
 
+.imagembene {
+	width: 50%;
+}
+
+h2 {
+	text-align: center;
+}
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
